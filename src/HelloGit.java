@@ -5,6 +5,8 @@ public class HelloGit {
 
 		System.out.println("Git Test, 여기는 학원");
 		System.out.println("llll");
+		System.out.println("222");
+		System.out.println("3333");
 	}
 
 }
