@@ -7,6 +7,9 @@ public class HelloGit {
 		System.out.println("llll");
 		System.out.println("222");
 		System.out.println("3333");
+		
+		System.out.println("집에서 Pull 받은 파일");
+
 	}
 
 }
